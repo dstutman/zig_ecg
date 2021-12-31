@@ -1,3 +1,5 @@
+"""Register access code generator"""
+
 from sys import argv
 from typing import Tuple
 from cmsis_svd.parser import SVDParser, SVDPeripheral, SVDRegister, SVDField
